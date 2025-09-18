@@ -1,1 +1,1 @@
-Repository with documents for various aplicantions and solutions
+Public repository for documents 
