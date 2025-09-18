@@ -9,56 +9,55 @@
 - Pojemnik na śruby
 - Latarka / dobre oświetlenie
 
-> ⚠️ **Nie używaj metalowych narzędzi do otwierania obudowy!**
+> ⚠️ **Nie używać metalowych narzędzi do otwierania obudowy!**
 
 ---
 
 ## ⚡ Bezpieczeństwo
 
-1. Wyłącz laptopa.
-2. Odłącz zasilacz.
-3. **Odłącz baterię wewnętrzną** — kluczowy krok!
+1. Wyłączyć laptopa.
+2. Odłączyć zasilacz.
+3. **Odłączyć baterię wewnętrzną** 
 
 ---
 
 ## 🔧 KROK PO KROKU
 
-### 1. Zdejmij tylną obudowę
-- Odkręć wszystkie śruby (8–10 sztuk).
-- Delikatnie odgiń zatrzaski plastikowym narzędziem.
+### 1. Zdjąć tylną obudowę
+- Odkręcić wszystkie śruby (8–10 sztuk).
+- Delikatnie odgiąć zatrzaski plastikowym narzędziem.
 
-### 2. Odłącz baterię
-- Znajdź wtyczkę baterii.
-- Pociągnij za biały uchwyt — NIE za kabel!
+### 2. Odłączyć baterię
+- Znaleźć wtyczkę baterii.
+- Pociągnąć za biały uchwyt
 
-### 3. Odkręć śruby mocujące górną obudowę
-- Szukaj śrub oznaczonych „KB” lub ikoną klawiatury.
+### 3. Odkręcić śruby mocujące górną obudowę
+- Śruby oznaczone „KB” lub ikoną klawiatury.
 
-### 4. Delikatnie unieś górną obudowę
-- Zacznij od krawędzi ekranu.
-- **Nie podnosząc całkowicie — najpierw odłącz taśmy!**
+### 4. Delikatnie unieść górną obudowę
+- Zacząć od krawędzi ekranu.
+- **Nie podnosząc całkowicie — najpierw odłączyć taśmy!**
 
-### 5. Odłącz taśmy
+### 5. Odłączyć taśmy
 - **Taśma klawiatury (Keyboard)** — najszersza, z literą „K” lub „KB”.
 - **Taśma touchpada** — cieńsza, z „T” lub „TP”.
 
-> 💡 **WAŻNE: Podświetlenie LED klawiatury NIE ma osobnej taśmy — działa przez główną taśmę klawiatury! Nie szukaj drugiego złącza — go nie ma.**
+> 💡 **WAŻNE: Podświetlenie LED klawiatury NIE ma osobnej taśmy — działa przez główną taśmę klawiatury! Nie szukać drugiego złącza — nie ma.**
 
-### 6. Wymień klawiaturę
-- Jeśli masz nową górną obudowę — zamontuj ją z taśmami.
-- Jeśli wymieniasz tylko klawiaturę — odkręć ją z obudowy i zamontuj nową.
+### 6. Wymienić klawiaturę
+- Klawiaturę — odkręcić z obudowy i zamontować nową.
 
-### 7. Zamontuj w odwrotnej kolejności
-- Podłącz taśmy → zatrzasknij klipsy.
-- Przykręć obudowę → podłącz baterię → załóż tylną pokrywę.
+### 7. Zmontować w odwrotnej kolejności
+- Podłączyć taśmy → zatrzasnąć klipsy.
+- Przykręcić obudowę → podłączyć baterię → założyć tylną pokrywę.
 
 ---
 
 ## ✅ Test po montażu
 
-- Włącz laptopa.
-- Sprawdź: klawisze, podświetlenie (Fn + F9), touchpad.
-- Jeśli LED nie działa — sprawdź skróty i BIOS.
+- Włączyć laptopa.
+- Sprawdzić: klawisze, podświetlenie (Fn + F9), touchpad.
+- Jeśli LED nie działa — sprawdzić skróty i BIOS.
 
 ---
 
@@ -68,12 +67,14 @@
 → **NIE.** Wszystko (klawisze + podświetlenie) idzie jedną taśmą.
 
 **Q: Co jeśli po wymianie nie świeci?**  
-→ Sprawdź skrót Fn+F9, BIOS, podłączenie taśmy, lub wadliwą klawiaturę.
+→ Sprawdzić skrót Fn+F9, BIOS, podłączenie taśmy, lub wadliwą klawiaturę.
 
 ---
 
 ## 📚 Źródła
 
 - Oficjalny HP Maintenance Guide: https://support.hp.com/us-en/product/setup-user-guides/hp-elitebook-840-g8-notebook-pc/model/38460774
+- 
 - YouTube: https://www.youtube.com/watch?v=GigpZTK-3sg
+
 
